@@ -28,7 +28,7 @@
 			items: '>ul',   // slides container selector
 			item: '>li',    // slidable items selector
 			easing: 'swing',// easing function to use for animation
-			autoplay: true  // enable autoplay on initialisation
+			autoplay: true,  // enable autoplay on initialisation
 			animateHeight: true  // enable variable height animation
 		};
 
